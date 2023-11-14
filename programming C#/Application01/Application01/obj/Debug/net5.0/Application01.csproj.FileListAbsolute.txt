@@ -1,0 +1,16 @@
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.exe
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.deps.json
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.runtimeconfig.json
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.runtimeconfig.dev.json
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.dll
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\ref\Application01.dll
+E:\My programming\programming C#\Application01\Application01\bin\Debug\net5.0\Application01.pdb
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.csproj.AssemblyReference.cache
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.GeneratedMSBuildEditorConfig.editorconfig
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.AssemblyInfoInputs.cache
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.AssemblyInfo.cs
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.csproj.CoreCompileInputs.cache
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.dll
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\ref\Application01.dll
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.pdb
+E:\My programming\programming C#\Application01\Application01\obj\Debug\net5.0\Application01.genruntimeconfig.cache
